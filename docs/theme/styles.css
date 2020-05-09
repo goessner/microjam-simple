@@ -97,11 +97,11 @@ a:hover {
 footer > a {
   color: var(--color-footer);
 }
-header > a:link, header > a:visited {
+header a:link, header a:visited {
   color: var(--color-header);
   text-decoration: none;
 }
-header > a:hover {
+header a:hover {
   color: var(--color-hover);
 }
 
