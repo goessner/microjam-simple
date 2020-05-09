@@ -5,7 +5,7 @@
 "date": "2020-04-08"
 ---
 ### Abstract
-This is the first article. We are testing `syntax highlighting` images here.
+This is my first article. We are testing `syntax highlighting` images here.
 
 ## Syntax highlighting
 
